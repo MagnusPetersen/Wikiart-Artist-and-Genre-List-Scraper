@@ -6,11 +6,9 @@ This is a simple Selenium based Wikiart.org scraper that I built to get all the 
 
 Python libraries
 
-*selenium
-
-*webdriver_manager
-
-*pandas
+* selenium
+* webdriver_manager
+* pandas
 
 # Liscence 
 
